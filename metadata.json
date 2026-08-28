@@ -1,0 +1,8 @@
+{
+  "name": "Sistema de Controle de Empréstimo de Equipamentos",
+  "description": "Sistema universitário completo para controle de cadastro, disponibilidade, solicitação, empréstimo, devolução, controle de avarias e histórico de equipamentos institucionais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
